@@ -1,2 +1,2 @@
-# Reddit-Comment-Classification
+# Reddit_Comment_Classification
 Investigated the performance of text classification methods of Reddit posts from 8 subreddits (rpg, anime, datascience, hardware, cars, gamedev, gamernews and computers) using mutated stacked classifier of several supervised learning algorithms (SVM, Bernoulli Naïve Bayes, KNeighbors LR, SGD, and Ridge Classifier), and achieved an accuracy of 93.70% on the held out validation set. 
